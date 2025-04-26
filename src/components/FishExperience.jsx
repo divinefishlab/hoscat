@@ -5,7 +5,7 @@ import { degToRad } from 'three/src/math/MathUtils.js';
 import { OrbitControls } from '@react-three/drei';
 import Particles from './Particles';
 import { God } from './God';
-import { Kitten } from './kitten';
+import { Kitten } from './Kitten';
 
 export const FishExperience = () => {
     const [animation, setAnimation] = useState("idle");
