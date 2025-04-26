@@ -8,7 +8,7 @@ import Particles from './Particles';
 import { RickFullAgain } from './RickFullAgain';
 import RedParticles from './RedParticles';
 import { God } from './God';
-import { Kitten } from './kitten';
+import { Kitten } from './Kitten';
 
 export const RickExperience = () => {
     const [animation, setAnimation] = useState("run");
