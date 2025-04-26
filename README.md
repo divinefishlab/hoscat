@@ -1,1 +1,1 @@
-# hoscat
+# divine-posgame
