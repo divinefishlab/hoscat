@@ -16,7 +16,7 @@ import { FishExperience } from "./FishExperience";
             <Row className="align-items-center">
                 <Col xs={12} md={6} xl={6}>
                 <span className="tagline">Paws. Claws. Moon.!</span>
-                <h1>{'Hosico The Soldier Cat'}<span className="wrap">!</span></h1>
+                <h1>{'Baby Hosico Cat'}<span className="wrap">!</span></h1>
                 <p>The chunkiest, fluffiest, and most majestic meme coin to ever waddle onto the blockchain. Powered by snacks, naps, and unstoppable laziness, Hosico isn't here just to run — he's here to roll to the moon.
 
 Join the fluff revolution where slow and steady definitely wins the race (eventually). Buy, hold, nap, and let the chunky paws of destiny guide your crypto dreams. Remember: In Hosico we trust — because who can say no to that cute face?.</p>

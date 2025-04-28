@@ -265,32 +265,32 @@ const expLogos = [
 
 const fighters =[
   {
-      title: "HOSCAT",
+      title: "BABYHOSICO",
       description:"Fat, fluffy, and ready for the moon-HOSCAT is leading the way! 🚀🐱",
       imgUrl:"/images/cat/cat1.jfif",
   },
   {
-      title: "HOSCAT",
+      title: "BABYHOSICO",
       description:"Who needs a wolf on Wall Street when you have a chubby cat on the blockchain? 🏦🐾",
       imgUrl:"/images/cat/cat2.jfif",
   },
   {
-      title: "HOSCAT",
+      title: "BABYHOSICO",
       description:"Buy HOSCAT today… or he might just sit on your keyboard forever! 😼💻",
       imgUrl:"/images/cat/cat11.jfif",
   },
   {
-      title: "HOSCAT",
+      title: "BABYHOSICO",
       description:"Powered by snacks, naps, and a dream—HOSCAT is the true king of crypto! 🍗💤👑",
       imgUrl:"/images/cat/cat4.jfif",
   },
   {
-      title: "HOSCAT",
+      title: "BABYHOSICO",
       description:"Hodl tight—HOSCAT might be slow, but he always lands on his feet! 🐈⬆️💰",
       imgUrl:"/images/cat/NinjaCat.jfif",
   },
   {
-      title: "HOSCAT",
+      title: "BABYHOSICO",
       description:"More fluff, less FUD—join the cutest coin on the market! 😽🚀",
       imgUrl:"/images/cat/cat10.jfif",
   },
