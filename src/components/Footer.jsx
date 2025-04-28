@@ -15,7 +15,7 @@ const Footer = () => {
 
       <div>
       <p className="text-[8px] py-2">
-        CA-coming soon
+        CA-vgjtWeAZ77ZSnzipVv3vXgtmuQkqwEXVGQfRkA3pump
       </p>
       <p className="text-sm ">
         &copy; {new Date().getFullYear()} All Rights Reserved.
@@ -27,7 +27,7 @@ const Footer = () => {
 
       <div className="mt-2 mr-4">
                      <div className="social-icon-footer ">
-                       <a href="https://pump.fun/coin/"><img src={dexLogo} alt="dexhoscat" /></a>
+                       <a href="https://pump.fun/coin/vgjtWeAZ77ZSnzipVv3vXgtmuQkqwEXVGQfRkA3pump"><img src={dexLogo} alt="dexhoscat" /></a>
                        <a href="https://x.com/hosicoCatGame"><img src={xLogo} alt="xhoscat" /></a>
                        {/* <a href="https://t.me/fredfishgame"><img src={teleLogo} alt="" /></a> */}
                      </div>
